@@ -1,0 +1,7 @@
+Double click the .vbs file to activate.
+
+If you want to stop it, right click the start menu, and click Run. After that, type cmd.exe in the box. Lastly, type taskkill /IM wscript.exe /F
+to deactivate. Or, if you can't manage it, (which I can't because it spams the command prompt) just log out and log back in. (press alt+ctrl+delete)
+
+TOS:
+Do NOT distrubute and/or abuse it. That's it. (It's copyrighted)
